@@ -6,4 +6,4 @@ yt_dlp.YoutubeDL(
     {
         "format" : "bestvideo + bestaudio/best"
     }
-) .download([url])
+).download([url])
