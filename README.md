@@ -70,7 +70,7 @@ Python-Practice/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/USERNAME/Python-Practice.git
+   git clone https://github.com/zaidhussain2k6/Python-Practice.git
    ```
 
 2. Navigate to the project folder:
